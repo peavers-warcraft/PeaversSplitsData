@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: PeaversSplitsData
+  description: "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits consumed by PeaversSplits: for every dungeon in the current season, at every exact keystone level with enough runs behind it, the median and interquartile time from the start of a run to each boss dying, generated daily from parses.gg."
+  annotations:
+    github.com/project-slug: peavers-warcraft/PeaversSplitsData
+spec:
+  type: library
+  lifecycle: production
+  owner: peavers-warcraft

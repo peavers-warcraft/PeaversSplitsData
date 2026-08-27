@@ -1,0 +1,16 @@
+# .peavers.yml - Addon metadata for peavers.io website
+
+# Icon to display on website
+iconType: DataRuneIcon
+
+# CurseForge project ID for download statistics
+# TODO: set once the CurseForge project for PeaversSplitsData is created.
+# curseForgeProjectId:
+
+# Tags for filtering and categorization
+tags:
+  - mythic-plus
+  - keystone
+  - splits
+  - data
+  - library
