@@ -10,6 +10,7 @@
 ## Category-enUS: Peavers
 ## X-Website: https://peavers.io
 ## X-Source-Code: https://github.com/peavers-warcraft/PeaversSplitsData
+## X-Curse-Project-ID: 1673980
 
 # A data file that is not listed here is never loaded, and nothing anywhere
 # disagrees: the repo keeps taking generated commits, the release keeps cutting,

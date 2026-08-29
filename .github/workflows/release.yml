@@ -19,10 +19,3 @@ jobs:
       git_user_name: Chris Turner
       git_user_email: peavers@gmail.com
       use_self_hosted: true
-      # No CurseForge project for this addon, so there is no X-Curse-Project-ID
-      # in the TOC and the upload step would exit 1 - which is what kept the
-      # cron commented out. Skipping the upload removes the reason: the GitHub
-      # Release and the addons.peavers.io catalog poke both still run, and those
-      # are what PeaversUpdater actually consumes. Same arrangement as
-      # PeaversTalentsData and PeaversBestInSlotData.
-      publish_curseforge: false

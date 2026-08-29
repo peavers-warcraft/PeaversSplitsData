@@ -3,10 +3,8 @@
 # Icon to display on website
 iconType: DataRuneIcon
 
-# CurseForge project ID for download statistics. Absent on purpose - this addon
-# is distributed through addons.peavers.io and PeaversUpdater only. Set it here
-# and in the TOC if a CurseForge project is ever created.
-# curseForgeProjectId:
+# CurseForge project ID for download statistics
+curseForgeProjectId: 1673980
 
 # Tags for filtering and categorization
 tags:
