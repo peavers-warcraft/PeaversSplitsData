@@ -3,8 +3,9 @@
 # Icon to display on website
 iconType: DataRuneIcon
 
-# CurseForge project ID for download statistics
-# TODO: set once the CurseForge project for PeaversSplitsData is created.
+# CurseForge project ID for download statistics. Absent on purpose - this addon
+# is distributed through addons.peavers.io and PeaversUpdater only. Set it here
+# and in the TOC if a CurseForge project is ever created.
 # curseForgeProjectId:
 
 # Tags for filtering and categorization
