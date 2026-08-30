@@ -2,7 +2,7 @@
 ## Title: |cff3abdf7Peavers|rSplitsData
 ## Notes: Benchmark keystone boss splits for PeaversSplits and others
 ## Author: Peavers
-## Version: 0.1.1
+## Version: 0.1.2
 # NOTE: src\Media\Icon.tga does not exist yet - see src\Media\README.md. WoW simply
 # shows no icon until the art is added at that exact path; the directive is correct
 # as written, so drop the .tga in and nothing here needs to change.
